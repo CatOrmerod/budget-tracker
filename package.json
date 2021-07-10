@@ -8,7 +8,7 @@
     "start": "node server.js",
     "lite-server": "lite-server",
     "develop": "nodemon server.js",
-    "prestart": "npm run webpack"
+    "prestart": "webpack"
   },
   "repository": {
     "type": "git",
