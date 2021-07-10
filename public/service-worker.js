@@ -3,9 +3,10 @@
 const FILES_TO_CACHE = [
   "/",
   "/index.html",
+  '/favicon.ico',
+  '/dist/manifest.webmanifest',
+  '/dist/bundle.js',
   "js/db.js",
-  "js/index.js",
-  "manifest.webmanifest",
   "service-worker.js",
   "/icons/icon-192x192.png",
   "/icons/icon-512x512.png",
