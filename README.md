@@ -2,9 +2,9 @@
 A budget tracker that can be used both online and offline.  If entries are recorded whilst offline, they will be populated to mongo as soon as user is online again.  In the interim they are held in the indexed db storage.  
 
 
-## Description & LIVE DEPLOYED WEBSITE
+## Description
 ---
-The app can be viewed live [here](https://budget-tracker-co.herokuapp.com/).  
+ (Previously deployed on Heroku — free tier discontinued 2022)
 Simply add a transaction to the budget tracker by providing the name and amount, and then use the add or subtract button depending on whether money is coming in or going out.  You'll see the total amount available change based on the income and expediture.  To download the application to your desktop, you can click the 'install budget tracker' icon found on the RHS of the address bar in google chrome.     
 
 ## Screenshots
